@@ -4,7 +4,11 @@ Bu proje, Turkcell Superonline fiber kullanıcılarının modem WAN bağlantı b
 
 📌 Özellikler
 
-✅ Gerekli paketleri otomatik yükler✅ Kullanıcıdan ethernet arayüzü ve kullanıcı adı bilgilerini ister✅ WAN şifresini otomatik olarak loglardan çeker✅ Şifreyi ekrana yazdırır ve bir dosyaya kaydeder✅ Ubuntu ve Debian tabanlı sistemlerle uyumludur
+✅ Gerekli paketleri otomatik yükler
+✅ Kullanıcıdan ethernet arayüzü ve kullanıcı adı bilgilerini ister
+✅ WAN şifresini otomatik olarak loglardan çeker
+✅ Şifreyi ekrana yazdırır ve bir dosyaya kaydeder
+✅ Ubuntu ve Debian tabanlı sistemlerle uyumludur
 
 🛠️ Gereksinimler
 
