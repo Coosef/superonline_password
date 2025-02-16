@@ -23,6 +23,7 @@ Root yetkileri (sudo erişimi gereklidir)
 Depoyu klonlayın
 
 git clone https://github.com/Coosef/superonline_password.git
+
 cd superonline-wan-password
 
 Scripti çalıştırılabilir hale getirin
